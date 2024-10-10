@@ -6,14 +6,16 @@
 
 Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My personal projects are usually written in Python🐍, which is why there's almost none of them. I'm currently on the road to doing some more projects in languages which I enjoy and don't loathe ~~(_MATLAB_)~~. All projects on my github currently are basic high school level projects with some arduino 🎛️ things sprinkled in.
 
-<p align="center"></p>
-  <a href="https://github.com/NutmegCat?tab=repositories&sort=stargazers">
-    <img align="center" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NutmegCat?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/NutmegCat?tab=followers">
-    <img align="center" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NutmegCat?color=ff6629&labelColor=df5118&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aaronprince-anu/">
-    <img align="center" alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/NutmegCat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=feed-person&label=LinkedIn&logoColor=white">  
-</p>
+<div align="center">
+    <p align="center"></p>
+      <a href="https://github.com/NutmegCat?tab=repositories&sort=stargazers">
+       <img align="center" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NutmegCat?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+     <a href="https://github.com/NutmegCat?tab=followers">
+        <img align="center" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NutmegCat?color=ff6629&labelColor=df5118&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+     <a href="https://www.linkedin.com/in/aaronprince-anu/">
+        <img align="center" alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/NutmegCat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=feed-person&label=LinkedIn&logoColor=white">  
+    </p>
+</div>
 
 ---
 
