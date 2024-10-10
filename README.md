@@ -13,7 +13,7 @@ Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My perso
      <a href="https://github.com/NutmegCat?tab=followers">
         <img align="center" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NutmegCat?color=ff6629&labelColor=df5118&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
      <a href="https://www.linkedin.com/in/aaronprince-anu/">
-        <img align="center" alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/NutmegCat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=feed-person&label=LinkedIn&logoColor=white">  
+        <img align="center" alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/github/NutmegCat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=feed-person&label=LinkedIn&logoColor=white">  
     </p>
 </div>
 
