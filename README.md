@@ -39,5 +39,5 @@ Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My perso
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NutmegCat&theme=tokyonight" height="180px"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NutmegCat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NutmegCat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
