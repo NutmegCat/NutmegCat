@@ -19,13 +19,13 @@ Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My perso
 
 ---
 
-### 🧰 Languages and Tools
+<h3 align="center">🧰 Languages and Tools</h3>
 
+<div align="center">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -35,17 +35,18 @@ Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My perso
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br></br> 
+</div>
+
+<br></br>
 
 #
 
-<h3 align="center">🍪 EPIC STATS 🍪</h2>
-
+<h3 align="center">🍪 EPIC STATS 🍪</h3>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NutmegCat&theme=tokyonight" height="180px"  />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NutmegCat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
-<h3 align="center">🐍 CONTRIBUTIONS 🐍</h2>
+<h3 align="center">🐍 CONTRIBUTIONS 🐍</h3>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NutmegCat/NutmegCat/output/github-contribution-grid-snake.svg"/>
