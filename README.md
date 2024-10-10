@@ -1,4 +1,6 @@
-# Aaron Prince Anu
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aaron+Prince+Anu!;" />
+</h1>
 
 `CE Student`
 
@@ -31,13 +33,17 @@ Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My perso
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
 <br></br> 
 
 #
-###
+
+<h3 align="center">🍪 EPIC STATS 🍪</h2>
+
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NutmegCat&theme=tokyonight" height="180px"  />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NutmegCat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
+
+<h3 align="center">🐍 CONTRIBUTIONS 🐍</h2>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NutmegCat/NutmegCat/output/github-contribution-grid-snake.svg"/>
