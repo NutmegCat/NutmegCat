@@ -37,8 +37,6 @@ Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My perso
 <img align="center" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
-<br></br>
-
 #
 
 <h3 align="center">🍪 EPIC STATS 🍪</h3>
