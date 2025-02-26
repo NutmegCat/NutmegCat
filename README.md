@@ -4,7 +4,7 @@
 
 `CE Student`
 
-Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My personal projects are usually written in Python🐍, which is why there's almost none of them. I'm currently on the road to doing some more projects in languages which I enjoy and don't loathe ~~(_MATLAB_)~~. All projects on my github currently are basic high school level projects with some arduino 🎛️ things sprinkled in.
+Hello👋 I'm Aaron, a first year Computer Engineering student 🛠️. My personal projects are usually written in Rust🦀, which is why there's almost none of them. I'm currently on the road to doing some more projects in languages which I enjoy and don't loathe ~~(_MATLAB_)~~. All projects on my github currently are basic high school level projects with some arduino 🎛️ things sprinkled in.
 
 <div align="center">
     <p align="center"></p>
